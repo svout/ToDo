@@ -97,7 +97,6 @@ const TodoApp = () => {
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 p-4 md:p-8">
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-xl shadow-md overflow-hidden">
-          {/* Header */}
           <div className="bg-gradient-to-r from-blue-500 to-blue-600 p-6 text-white">
             <h1 className="text-2xl md:text-3xl font-bold flex items-center">
               <span className="mr-2">📝</span> Todo App
